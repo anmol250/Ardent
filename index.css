@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+
+h3{
+    text-decoration: underline;
+  }
+
+  h4{
+     text-decoration: yellow;
+     text-decoration: underline;
+  }
+
+  .para{
+      font-size: 25px;
+      color: wheat;
+  }
+
+  h5{
+      font-size: 25px;
+      color: wheat;
+      text-decoration: underline;
+      border-radius: 2rem;
+  }
+
+  
